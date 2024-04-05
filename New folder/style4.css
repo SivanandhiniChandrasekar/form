@@ -1,0 +1,46 @@
+html,
+body{
+    margin: 0;
+    background-color: antiquewhite;
+}
+
+h1{
+    margin-left: 15pt;
+    margin-top: 3em;
+    font-weight: 1000;
+    float: left;
+    font-size: 5ch;
+}
+
+#titles{
+    float: right;
+    text-align: end;
+    margin-right: 15pt;
+    margin-top: 30px;
+    letter-spacing: 1.5px;
+}
+
+#titles a{
+    text-decoration: none;
+    background-color: rgb(217, 150, 61);
+    padding: 5px 10px;
+    border-radius: 25pc;
+}
+
+.image{
+    align-content: end;
+    float: right;
+    margin-left:15px;
+    margin: 20px;
+
+}
+
+.objective{
+    text-align: left;
+    float:left;
+    width: 60%;
+    height: 40%;
+    padding: 1px 20px ;
+    font-size: larger;
+    
+}
